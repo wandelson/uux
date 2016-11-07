@@ -1,0 +1,9 @@
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\bin\Debug\RSSMostRelevantTermsTest.dll
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\bin\Debug\RSSMostRelevantTermsTest.pdb
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\bin\Debug\RSSMostRelevantTerms.exe
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\bin\Debug\RSSMostRelevantTerms.pdb
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\obj\Debug\RSSMostRelevantTermsTest.csprojResolveAssemblyReference.cache
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\obj\Debug\RSSMostRelevantTermsTest.dll
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTermsTest\obj\Debug\RSSMostRelevantTermsTest.pdb

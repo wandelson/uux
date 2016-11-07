@@ -1,0 +1,6 @@
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\AdjacentPointsMaxDistance\bin\Debug\AdjacentPointsMaxDistance.exe.config
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\AdjacentPointsMaxDistance\bin\Debug\AdjacentPointsMaxDistance.exe
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\AdjacentPointsMaxDistance\bin\Debug\AdjacentPointsMaxDistance.pdb
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\AdjacentPointsMaxDistance\obj\Debug\AdjacentPointsMaxDistance.csprojResolveAssemblyReference.cache
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\AdjacentPointsMaxDistance\obj\Debug\AdjacentPointsMaxDistance.exe
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\AdjacentPointsMaxDistance\obj\Debug\AdjacentPointsMaxDistance.pdb

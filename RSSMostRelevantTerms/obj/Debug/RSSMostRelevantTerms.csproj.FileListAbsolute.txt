@@ -1,0 +1,9 @@
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTerms\bin\Debug\RSSMostRelevantTerms.exe.config
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTerms\bin\Debug\RSSMostRelevantTerms.exe
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTerms\bin\Debug\RSSMostRelevantTerms.pdb
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTerms\obj\Debug\RSSMostRelevantTerms.csprojResolveAssemblyReference.cache
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTerms\obj\Debug\RSSMostRelevantTerms.exe
+C:\Users\wans\Documents\Visual Studio 2015\Projects\uux\UUX\RSSMostRelevantTerms\obj\Debug\RSSMostRelevantTerms.pdb
+C:\Users\wans\Documents\dev\UUX\RSSMostRelevantTerms\bin\Debug\RSSMostRelevantTerms.exe.config
+C:\Users\wans\Documents\dev\UUX\RSSMostRelevantTerms\obj\Debug\RSSMostRelevantTerms.exe
+C:\Users\wans\Documents\dev\UUX\RSSMostRelevantTerms\obj\Debug\RSSMostRelevantTerms.pdb
